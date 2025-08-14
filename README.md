@@ -41,7 +41,7 @@ When asked:
 Enter your password to check strength:
 
 
-Type your password and press Enter ↵.
+### Type your password and press Enter ↵.
 
 
 
