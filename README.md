@@ -67,18 +67,18 @@ Use a strong password to keep your accounts secure.
 You can edit main.py to customize rules or add more checks.
 
 
-💻 Edit README.md
+# 💻 Edit README.md
 
 Locally:
 
-# Open and edit
+## Open and edit
 code README.md   # if using VS Code
-# Then save and commit
+## Then save and commit
 git add README.md
 git commit -m "Update README"
 git push
 
 
-Directly on GitHub:
+## Directly on GitHub:
 
 Open README.md → click the ✏️ Edit button → make changes → Commit changes
