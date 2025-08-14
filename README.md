@@ -44,6 +44,8 @@ Enter your password to check strength:
 Type your password and press Enter ↵.
 
 
+
+
 ⚙ Features:
 
 1.Checks for password length.
@@ -70,7 +72,9 @@ password-strength-checker/
 ├─ main.py
 ├─ README.md
 
-💻 Optional: Edit README.md
+
+
+💻 Edit README.md
 
 Locally:
 
