@@ -46,7 +46,7 @@ Type your password and press Enter ↵.
 
 
 
-⚙ Features:
+# ⚙ Features:
 
 1.Checks for password length.
 
@@ -65,13 +65,6 @@ Type your password and press Enter ↵.
 Use a strong password to keep your accounts secure.
 
 You can edit main.py to customize rules or add more checks.
-
-📂 File Structure:
-password-strength-checker/
-│
-├─ main.py
-├─ README.md
-
 
 
 💻 Edit README.md
