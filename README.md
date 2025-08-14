@@ -71,14 +71,14 @@ You can edit main.py to customize rules or add more checks.
 
 ## Locally:
 
-### Open and edit:
+### 1. Open and edit:
 code README.md   # if using VS Code
-### Then save and commit
+### 2. Then save and commit
 git add README.md
 git commit -m "Update README"
 git push
 
 
-### Directly on GitHub:
+## Directly on GitHub:
 
 Open README.md → click the ✏️ Edit button → make changes → Commit changes
